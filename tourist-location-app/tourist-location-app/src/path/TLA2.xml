@@ -1,0 +1,730 @@
+<districts>
+	<district id="Ari" name="Ariyalur">
+		<touristplace name="Arulmigu peruvudaiyar Temple">
+			<accomodation name="Mkr lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1200plus Rs.265 taxes /per night"/>
+			<accomodation name="Psn Grand Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.968 /per night"/>
+			<accomodation name="Hotel Saradharam Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1300 /per night"/>
+		</touristplace>
+		<touristplace name="Ponneri lake">
+			<accomodation name="Dahanam ladge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1500 /per night"/>
+			<accomodation name="Sri Meera Mahal Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1900/per night"/>
+		</touristplace>
+		<touristplace name="Brihadeeshwarar temple">
+			<accomodation name="Philomena Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.2268 /per night"/>
+			<accomodation name="Svatma,Hotel Oriental Towers" description="Rooms and Guest 1 Room ,2 Adults = Rs.2600 /per night"/>
+		</touristplace>
+		<touristplace name="karaivetti Bird Sanctuary">
+			<accomodation name="MSR Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1268 /per night"/>
+			<accomodation name="Hotel Laya Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.2659 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Chenk" name="Chenkalpattu">
+		<touristplace name="Mahabalipuram Shore Temple">
+			<accomodation name=" Hotel Mahabs" description="Rooms and Guest 1 Room ,2 Adults = Rs.1730 /per night" />
+			<accomodation name="Marutham Village Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.3200 /per night"/>
+			<accomodation name="Rajalakshmi Guesthouse" description="Rooms and Guest 1 Room ,2 Adults = Rs.1800 /per night"/>
+		</touristplace>
+		<touristplace name="Krishna's Butter Ball">
+			<accomodation name="Siva Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1110 /per night"/>
+			<accomodation name="Anand GuestHouse" description="Rooms and Guest 1 Room ,2 Adults = Rs.2100 /per night"/>
+			<accomodation name="Rajalakshmi Guesthouse" description="Rooms and Guest 1Room ,2 Adults = Rs.1800 /per night"/>
+		</touristplace>
+		<touristplace name="Five Rathas">
+			<accomodation name="Siva Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.2100 /per night"/>
+			<accomodation name="Anand Guesthouse" description="Rooms and Guest 1 Room ,2 Adults = Rs.3200 /per night"/>
+			<accomodation name="Rajalakshmi Guesthouse" description="Rooms and Guest 1 Room ,2 Adults = Rs.1800 /per night"/>
+		</touristplace>
+		<touristplace name="Vedanthangal Bird Sanctuary">
+			<accomodation name="Mongoose Camps" description="Rooms and Guest 1 Room ,2 Adults = Rs.3500 /per night"/>
+			<accomodation name="Highway Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1600 /per night" />
+			<accomodation name="Hotel Sakthi park" description="Rooms and Guest 1 Room ,2 Adults = Rs.1750 plus Rs.250 taxes /per night"/>
+		</touristplace>
+	</district>
+	<district id="Chen" name="Chennai">
+		<touristplace name="Arulmigu Vadapalani murugan Temple">
+			<accomodation name="FabExpress Panasia Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1404 /per night"/>
+			<accomodation name="Mahalakshmi Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.936 /per night"/>
+			<accomodation name="FabExpress Earth" description="Rooms and Guest 1 Room ,2 Adults = Rs.1299 /per night"/>
+		</touristplace>
+		<touristplace name="Marina Beach">
+			<accomodation name="Collection O Santhome Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.692 /per night"/>
+			<accomodation name="Hotel Thaj Regency" description="Rooms and Guest 1 Room ,2 Adults = Rs.456 /per night"/>
+			<accomodation name="Spot On Bt Mansion " description="Rooms and Guest 1 Room ,2 Adults = Rs.399 /per night"/>
+		</touristplace>
+		<touristplace name="Chennai Rail museum">
+			<accomodation name="GM Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.873/per night"/>
+			<accomodation name="OYO Hotel and Lodge Flagship JPR Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.619/per night"/>
+			<accomodation name="Ganesh Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.907 /per night"/>
+		</touristplace>
+		<touristplace name="Arignar Anna Zological park">
+			<accomodation name="OYO Whites Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.523 plus Rs.265 taxes /per night"/>
+			<accomodation name="Hotel Srr Grand" description="Rooms and Guest 1 Room ,2 Adults = Rs.3046/per night"/>
+			<accomodation name="Flagship Kb Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.705/per night"/>
+		</touristplace>
+	</district>
+	<district id="Coi" name="Coimbatore">
+		<touristplace name="Adiyogi Sivan Temple Isha">
+			<accomodation name="Tuskers Hill by Poppys Anaikatti Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.2400/per night"/>
+			<accomodation name="Au Revoir Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.2320/per night"/>
+			<accomodation name="SR Jungle Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.3299/per night"/>
+		</touristplace>
+		<touristplace name="Velliangiri Hills">
+			<accomodation name="Hotel Lovely Nest" description="Rooms and Guest 1 Room ,2 Adults = Rs.903 /per night"/>
+			<accomodation name="Z Express Pulse" description="Rooms and Guest 1 Room ,2 Adults = Rs.947 /per night"/>
+			<accomodation name="Hotel Aishwarya Rest" description="Rooms and Guest 1 Room ,2 Adults = Rs.649 /per night"/>
+		</touristplace>
+		<touristplace name="Black Thundar">
+			<accomodation name="Asoka Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.2080 /per night"/>
+			<accomodation name="Jungle Hut" description="Rooms and Guest 1 Room ,2 Adults = Rs.1838 /per night"/>
+			<accomodation name="Hotel Sree Saravana Bhavan " description="Rooms and Guest 1 Room ,2 Adults = Rs.1538 /per night"/>
+		</touristplace>
+		<touristplace name="Marudamalai Murugan Temple">
+			<accomodation name="Sri Krishna Vilas Hotel " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,562 /per night"/>
+			<accomodation name="Nahar Manchester Inn " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,616 /per night"/>
+			<accomodation name="Hotel Nivetha Grand" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,480 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Cud" name="Cuddalore">
+		<touristplace name="Thillai Natarajar Temple">
+			<accomodation name="Pari Muthu Vilas" description="Rooms and Guest 1 Room ,2 Adults = Rs.975 /per night. UnMarried couples not allowed"/>
+			<accomodation name="Jawahar lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.879 /per night"/>
+			<accomodation name="Nataraja Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,503 /per night"/>
+		</touristplace>
+		<touristplace name="Veeranam Lake">
+			<accomodation name="Le Grand Guest House " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,536 /per night. with A/C only allowed in Family couples" />
+			<accomodation name="Krish Garden Farm House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,846 /per night"/>
+			<accomodation name="lakshivilas Heritage Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,443 /per night"/>
+		</touristplace>
+		<touristplace name="Silver Beach">
+			<accomodation name="Hotel Swathi lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.809 /per night and Free Wifi."/>
+			<accomodation name="Hotel SPDS" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,529 /per night"/>
+			<accomodation name="Hotel Suryapriya" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,230 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Dha" name="Dharmapuri">
+		<touristplace name="Hogenakkal Water falls">
+			<accomodation name="TTDC Hotel Tamilnadu " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,721 /per night"/>
+			<accomodation name="CM Hotel " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,007 /per night"/>
+			<accomodation name="Sri Priya Loading House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,222 /per night"/>
+		</touristplace>
+		<touristplace name="hoganakkal Boating point">
+			<accomodation name="CM Hotel " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,008 /per night"/>
+			<accomodation name="TTDC Hotel Tamilnadu" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,721 /per night"/>
+			<accomodation name="Sri Priya Loading House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,222 /per night"/>
+		</touristplace>
+		<touristplace name="Panchapalli Dam">
+			<accomodation name="Kaveri Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,225 /per night"/>
+			<accomodation name="Aditya Inn By UnicornHMS " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,316 /per night"/>
+			<accomodation name="Chandra Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,495 /per night"/>
+		</touristplace>
+		<touristplace name="Adhiyaman Kottai">
+			<accomodation name="Rasi Comforts" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,469 /per night"/>
+			<accomodation name="Chandra Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,497 /per night"/>
+			<accomodation name="Kaveri Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,225 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Din" name="Dindigul">
+		<touristplace name="Pine Forest">
+			<accomodation name="JMA Garden Resorts" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,202 /per night"/>
+			<accomodation name="Hotel Vales Park" description="Rooms and Guest 1 Room ,2 Adults = Rs.923 /per night"/>
+			<accomodation name="Vivera Grande Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,990 /per night"/>
+		</touristplace>
+		<touristplace name="Silver cascade Falls">
+			<accomodation name="Rajakkad Estate" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,529 /per night"/>
+			<accomodation name="Vivera Grande Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,990 /per night"/>
+			<accomodation name="Hotel Vales Park" description="Rooms and Guest 1 Room ,2 Adults = Rs.923 /per night"/>
+		</touristplace>
+		<touristplace name="Dolphin Nose">
+			<accomodation name="Charles homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,054 /per night"/>
+			<accomodation name="Craigmore By Kodai Resort Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.4,218 /per night"/>
+			<accomodation name="Sterling Kodai lake" description="Rooms and Guest 1 Room ,2 Adults = Rs.5,579 /per night"/>
+		</touristplace>
+		<touristplace name="Vattakanal Waterfalls">
+			<accomodation name="Cottages in Vattakanal" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,500 /per night"/>
+			<accomodation name="Nest Hook Vattakanal Woodhouse Homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,920 /per night"/>
+			<accomodation name="Vattakanal Homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,300 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Ero" name="Erode">
+		<touristplace name="Sathyamangalam Wildlife Sancatuary">
+			<accomodation name="Peace Valley Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,662 /per night and Couples Friendly"/>
+			<accomodation name="Nature Touch Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,055 /per night"/>
+			<accomodation name="The Wild Cottages and Roooms" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,064 /per night"/>
+		</touristplace>
+		<touristplace name="BhavaniSagar Dam">
+			<accomodation name="Sakthi Murugan Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,310 /per night"/>
+			<accomodation name="Adithya Sunrise View Cottage" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,900 /per night"/>
+			<accomodation name="Peace Valley Resorts" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,976 /per night"/>
+		</touristplace>
+		<touristplace name="Kodiveri Waterfalls">
+			<accomodation name="Royel Castle Farm Stay Resort " description="Rooms and Guest 1 Room ,2 Adults = Rs.3,595 /per night"/>
+			<accomodation name="Le Castle Inn Club Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,489 /per night"/>
+			<accomodation name="Moonwalk Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,831 /per night"/>
+		</touristplace>
+		<touristplace name="Pachimalai Murugan Temple">
+			<accomodation name="KG Grand Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.753 /per night"/>
+			<accomodation name="Hotel Ram Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,164 /per night"/>
+			<accomodation name="Hotel Sivaranjani" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,188 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Kall" name="Kallakurichi">
+		<touristplace name="Thiruvarangam Perumal Kovil">
+			<accomodation name="SL Park" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,556 /per night"/>
+			<accomodation name="Hotel SR park" description="Rooms and Guest 1 Room ,2 Adults = Rs.1875 /per night"/>
+			<accomodation name="Hotel Sri Radhai Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,529 /per night"/>
+		</touristplace>
+		<touristplace name="Megam Falls">
+			<accomodation name="Sri Vasantham Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,425 /per night"/>
+			<accomodation name="SL Park" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,556 /per night"/>
+			<accomodation name="Hotel SR park" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,875 /per night"/>
+		</touristplace>
+		<touristplace name="Periyar water falls">
+			<accomodation name="Water Rock homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,529 /per night"/>
+			<accomodation name="Sri Vasantham Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,425 /per night"/>
+			<accomodation name="Hotel SR Park" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,875 /per night"/>
+		</touristplace>
+		</district>
+	<district id="Kan" name="Kanchipuram">
+		<touristplace name="Sri Kanchi Kamakshi amman temple">
+			<accomodation name="GSR Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,608 /per night"/>
+			<accomodation name="Hotel Alayam " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,801 /per night"/>
+			<accomodation name="Hotel Comfort " description="Rooms and Guest 1 Room ,2 Adults = Rs.2,050 /per night"/>
+		</touristplace>
+		<touristplace name="Kailasanathar Temple">
+			<accomodation name="SSK Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,116 /per night"/>
+			<accomodation name=" Heritage Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,300 /per night"/>
+			<accomodation name="Hotel Alayam " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,801 /per night"/>
+		</touristplace>
+		</district>
+	<district id="Kanni" name="Kanniyakumari">
+		<touristplace name="Thiruvalluvar Statue">
+			<accomodation name="Hotel Sunview" description="Rooms and Guest 1 Room ,2 Adults = Rs.732 /per night"/>
+			<accomodation name="Arunachala Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,128 /per night"/>
+			<accomodation name="Hotel Sea land" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,153 /per night"/>
+		</touristplace>
+		<touristplace name="Vivekananda Rock memorial">
+			<accomodation name="Hotel Sunview" description="Rooms and Guest 1 Room ,2 Adults = Rs.732 /per night"/>
+			<accomodation name="Arunachala Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,128 /per night"/>
+			<accomodation name="Hotel Sea land" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,153 /per night"/>
+		</touristplace>
+		<touristplace name="SunsetViewPoint">
+			<accomodation name="TTDC Hotel Tamilnadu" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,528 /per night"/>
+			<accomodation name="Hotel Sunview" description="Rooms and Guest 1 Room ,2 Adults = Rs.732 /per night"/>
+			<accomodation name="Arunachala Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,128 /per night"/>
+		</touristplace>
+		<touristplace name="Kanniyakumari beach">
+			<accomodation name="New Cape Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,059 /per night"/>
+			<accomodation name="Hotel Sunview" description="Rooms and Guest 1 Room ,2 Adults = Rs.732 /per night"/>
+			<accomodation name="Arunachala Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,128 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Karu" name="Karur">
+		<touristplace name="Kadavur Jamin Palace">
+			<accomodation name="Hotel Hemala" description="Rooms and Guest 1 Room ,2 Adults = Rs.4,620 /per night"/>
+			<accomodation name="Sri Murugan Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,213 /per night"/>
+			<accomodation name="The Royal Grand Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,920 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu Kadambavaneswarar Temple">
+			<accomodation name="Hotel Gateway" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,777 /per night"/>
+			<accomodation name="Mc Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,780 /per night"/>
+			<accomodation name="KVR Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,450 /per night"/>
+		</touristplace>
+		</district>
+	<district id="Kris" name="Krishnagiri">
+		<touristplace name="Krishnagiri Fort">
+			<accomodation name="Sri Venkateshwara Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,333 /per night"/>
+			<accomodation name="Hotel Velan International" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,066 /per night"/>
+			<accomodation name="Hotel RKV Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,206 /per night"/>
+		</touristplace>
+		<touristplace name="Krishnagiri Dam">
+			<accomodation name="Vijay Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,440 /per night"/>
+			<accomodation name="Sri Venkateshwara Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,333 /per night"/>
+			<accomodation name="Hotel Velan International" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,066 /per night"/>
+		</touristplace>
+		<touristplace name="Rayakottai">
+			<accomodation name="Spot On Surjith A/c Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.832 /per night"/>
+			<accomodation name="Vijay Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,440 /per night"/>
+			<accomodation name="Sri Venkateshwara Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,333 /per night"/>
+		</touristplace>
+		<touristplace name="Dakshina Tripati Temple">
+			<accomodation name="Admiral Palm Meadows and Holiday Resort " description="Rooms and Guest 1 Room ,2 Adults = Rs.3,450 /per night"/>
+			<accomodation name="Sri Krishna Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.832 /per night"/>
+			<accomodation name="ASR Parklane" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,489 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Madu" name="Madurai">
+		<touristplace name="Meenakshi Amman Temple">
+			<accomodation name="Hotel Temple View Annexe" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,190 /per night"/>
+			<accomodation name="Hotel Prem Nivas" description="Rooms and Guest 1 Room ,2 Adults = Rs.932 /per night"/>
+			<accomodation name="Annapoorna Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,200 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu Koodal Alagar Temple">
+			<accomodation name="MR Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.599 /per night"/>
+			<accomodation name="Hotel Prem Nivas" description="Rooms and Guest 1 Room ,2 Adults = Rs.932 /per night"/>
+			<accomodation name="Jaya Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.404 /per night"/>
+		</touristplace>
+		<touristplace name="Gandhi Memorial museum">
+			<accomodation name="Le Grace Iyyer Bungalow" description="Rooms and Guest 1 Room ,2 Adults = Rs.904 /per night"/>
+			<accomodation name="Le Grace Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,000 /per night"/>
+			<accomodation name="Hotel Temple View Annexe" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,190 /per night"/>
+		</touristplace>
+		<touristplace name="Thirumalai Nayakkar Palace">
+			<accomodation name="Hotel Temple View Annexe" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,190 /per night"/>
+			<accomodation name="Hotel Prem Nivas" description="Rooms and Guest 1 Room ,2 Adults = Rs.932 /per night"/>
+			<accomodation name="Annapoorna Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,200 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Mayi" name="Mayiladuthurai">
+		<touristplace name="Tharangambadi Beach">
+			<accomodation name="Hotel GK Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.779 /per night"/>
+			<accomodation name="Soorya Beach Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,210 /per night"/>
+			<accomodation name="Navagiraga Resort and Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,478 /per night"/>
+		</touristplace>
+		<touristplace name="Danish Fort">
+			<accomodation name="Hotel Aishwariyam Thirukadaiyur" description="Rooms and Guest 1 Room ,2 Adults = Rs.728 /per night"/>
+			<accomodation name="Hotel GK Residency " description="Rooms and Guest 1 Room ,2 Adults = Rs.779 /per night"/>
+			<accomodation name="Abirami Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,105 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu sri Abirami amman temple">
+			<accomodation name="Hotel Aishwariyam Thirukadaiyur" description="Rooms and Guest 1 Room ,2 Adults = Rs.728 /per night"/>
+			<accomodation name="Hotel GK Residency " description="Rooms and Guest 1 Room ,2 Adults = Rs.779 /per night"/>
+			<accomodation name="Abirami Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,105 /per night"/>
+		</touristplace>
+		</district>
+	<district id="Naga" name="Nagapattinam">
+		<touristplace name="Velankanni Beach">
+			<accomodation name="Hotel Orchard Inn Velankanni" description="Rooms and Guest 1 Room ,2 Adults = Rs.804 /per night"/>
+			<accomodation name="Golden sand Velankanni" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,117 /per night"/>
+			<accomodation name="DJ Residency Velankanni" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,119 /per night"/>
+		</touristplace>
+		<touristplace name="Kodikkarai Beach">
+			<accomodation name="Hotel Coastal Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.895 /per night"/>
+			<accomodation name="Santhosh Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,114 /per night"/>
+			<accomodation name="Soorya beach Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,210 /per night"/>
+		</touristplace>
+			</district>
+	<district id="Nama" name="Namakkal">
+		<touristplace name="Puliyanchollai">
+			<accomodation name="Panimalar lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,505 /per night"/>
+			<accomodation name="Hotel Sanu International" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,535 /per night"/>
+			<accomodation name="Nallathambi Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,538 /per night"/>
+		</touristplace>
+		<touristplace name="Aagaya Gangai falls">
+			<accomodation name="Parvathi Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,544 /per night"/>
+			<accomodation name="RVR Rejoice Villa Resorts kolli Hills" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,500 /per night"/>
+			<accomodation name="SKGV Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,875 /per night"/>
+		</touristplace>
+		<touristplace name="Namakkal Fort">
+			<accomodation name="Comfort Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,439 /per night"/>
+			<accomodation name="Parkview Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,855 /per night"/>
+			<accomodation name="Parvathi Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,544 /per night"/>
+		</touristplace>
+		<touristplace name="Jedarpalayam Dam">
+			<accomodation name="Altis lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,144 /per night"/>
+			<accomodation name="New Anantham Kongu A/c lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,169 /per night"/>
+			<accomodation name="Gokul Grande" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,500 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Nil" name="Nilgiris">
+		<touristplace name="Mudumalai Tiger Reserve">
+			<accomodation name="Sahana Holidays Masinagudi Cottage" description="Rooms and Guest 1 Room ,2 Adults = Rs.937 /per night"/>
+			<accomodation name="VMJ wild stay " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,078 /per night"/>
+			<accomodation name="Mudumalai Holiday village Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,515 /per night"/>
+		</touristplace>
+		<touristplace name="Pykara waterfalls">
+			<accomodation name="Velu's Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,625 /per night"/>
+			<accomodation name="Deep Jungle Home" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,622 /per night"/>
+			<accomodation name="Sahana Holidays masinagudi Cottages" description="Rooms and Guest 1 Room ,2 Adults = Rs.937 /per night"/>
+		</touristplace>
+		<touristplace name="Tamilnadu tourism Boat house">
+			<accomodation name="Aishwarya Garden Resorts" description="Rooms and Guest 1 Room ,2 Adults = Rs.730 /per night"/>
+			<accomodation name="Silver Oak Resorts" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,431 /per night"/>
+			<accomodation name="Mudumalai Holiday Village" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,515 /per night"/>
+		</touristplace>
+		<touristplace name="Upper Bhavani Reservoir">
+			<accomodation name="MountSide Cottage" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,366 /per night"/>
+			<accomodation name="Venus Holiday Home" description="Rooms and Guest 1 Room ,2 Adults = Rs.990 /per night"/>
+			<accomodation name="Green wood Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,383 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Per" name="Perambalur">
+		<touristplace name="Mayil Ootru water Falls">
+			<accomodation name="SJ Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,799 /per night"/>
+			<accomodation name="GK Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,400 /per night"/>
+			<accomodation name="Sri Madhurakaliamman Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,016 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu sri Bala Dhandayuthapani temple">
+			<accomodation name="MSR Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,440 /per night"/>
+			<accomodation name="Sri Madhurakaliamman Guesthouse" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,016 /per night"/>
+			<accomodation name="SJ Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,799 /per night"/>
+		</touristplace>
+		<touristplace name="Visvakudi Dam">
+			<accomodation name="BB Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,207 /per night"/>
+			<accomodation name="Hotel Vallalar" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,405 /per night"/>
+			<accomodation name="Sri Madhurakaliamman GuestHouse" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,016 /per night"/>
+		</touristplace>
+			</district>
+	<district id="Pudu" name="Pudukkottai">
+		<touristplace name="Moovar kovil">
+			<accomodation name="ASS Happy Stay Inn Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,084 /per night"/>
+			<accomodation name="Shri Sai Baba homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,232 /per night"/>
+			<accomodation name="AC Tower" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,260 /per night"/>
+		</touristplace>
+		<touristplace name="Sittannavasal">
+			<accomodation name="AC Tower" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,260 /per night"/>
+			<accomodation name="Sri lakshme Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,350 /per night"/>
+			<accomodation name="Sopt on 44022 hotel National lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,750 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu Viralimalai murugan temple">
+			<accomodation name="Abi's Homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.732 /per night"/>
+			<accomodation name="Amman Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.839 /per night"/>
+			<accomodation name="Shri Sai Baba Homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,232 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Ram" name="Ramanathapuram">
+		<touristplace name="Pamban Bridge">
+			<accomodation name="Hotel Aalayam Rameshwaram " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,010 /per night"/>
+			<accomodation name="AAA Cottage" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,204 /per night"/>
+			<accomodation name="Hotel Harish" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,120 /per night"/>
+		</touristplace>
+		<touristplace name="Dr.A.P.J Abdul kalam memorial">
+			<accomodation name="Rameswaram Hotel Jothirling" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,018 /per night"/>
+			<accomodation name="Reho Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,094 /per night"/>
+			<accomodation name="Hotel Aalayam Rameswaram" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,010 /per night"/>
+		</touristplace>
+		<touristplace name="Kunthukal beach">
+			<accomodation name="Hotel Aalayam Rameshwaram " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,010 /per night"/>
+			<accomodation name="AAA Cottage" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,204 /per night"/>
+			<accomodation name="Hotel Harish" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,120 /per night"/>
+		</touristplace>
+		<touristplace name="Kothanda ramar temple">
+			<accomodation name="Hotel Hare Rama Hare Krishna" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,043 /per night"/>
+			<accomodation name="Rameshwaram Hotel Temple Tower" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,150 /per night"/>
+			<accomodation name=" Hotel Aalayam Rameshwaram" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,010 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Rani" name="Ranipet">
+		<touristplace name="Sholingur  hill temple">
+			<accomodation name="Mount View Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.941 /per night"/>
+			<accomodation name="Udayam Grand" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,640 /per night"/>
+			<accomodation name="Udayam Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1455 /per night"/>
+		</touristplace>
+		<touristplace name="Delhi Gate">
+			<accomodation name="GR Mansion" description="Rooms and Guest 1 Room ,2 Adults = Rs.595 /per night"/>
+			<accomodation name="Mount View Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.941 /per night"/>
+			<accomodation name="Christian Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,127 /per night"/>
+		</touristplace>
+		<touristplace name="Thiru Kanchanagiri Deveshthanam">
+			<accomodation name="GR Mansion" description="Rooms and Guest 1 Room ,2 Adults = Rs.595 /per night"/>
+			<accomodation name="Mount View Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.941 /per night"/>
+			<accomodation name="Christian Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,127 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Sel" name="Selam">
+		<touristplace name="Sankagiri Fort">
+			<accomodation name="Vedha lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.820 /per night"/>
+			<accomodation name="Sri Sai Vikas lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.936 /per night"/>
+			<accomodation name="Hotel Pranawas Castle" description="Rooms and Guest 1 Room ,2 Adults = Rs.966 /per night"/>
+		</touristplace>
+		<touristplace name="Pagoda Point Yercaud">
+			<accomodation name="Skylight Residency Yercaud" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,126 /per night"/>
+			<accomodation name="Oneness Nest" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,371 /per night"/>
+			<accomodation name="Royal Galaxy Inn " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,189 /per night"/>
+		</touristplace>
+		<touristplace name="Kiliyur Falls">
+			<accomodation name="Unique Hotels -Ajvi Resorts" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,137 /per night"/>
+			<accomodation name="Skylight Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,126 /per night"/>
+			<accomodation name="Oneness nest" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,371 /per night"/>
+		</touristplace>
+		<touristplace name="Oothumalai Hills">
+			<accomodation name="Vedha Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.820 /per night"/>
+			<accomodation name="Hotel Pearls " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,094 /per night"/>
+			<accomodation name="Sri Sai Vikas Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.936 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Siva" name="Sivagangai">
+		<touristplace name="Kalaiyar Kovil">
+			<accomodation name="Kumaresh Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,356 /per night"/>
+			<accomodation name="Maria Homez" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,451 /per night"/>
+			<accomodation name="Hotel Temple City" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,214 /per night"/>
+		</touristplace>
+		<touristplace name="Sivangangai Palace">
+			<accomodation name="Hotel Dream world Boarding and Lodging" description="Rooms and Guest 1 Room ,2 Adults = Rs.1904 /per night"/>
+			<accomodation name="Hotel Shanmugha Bhavan" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,855 /per night"/>
+			<accomodation name="Idhaya Towers" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,650 /per night"/>
+		</touristplace>
+		<touristplace name="Tiruppaththur Thiruthalinathar Temple">
+			<accomodation name="Thangam Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,272 /per night"/>
+			<accomodation name="Hotel Ess Pe Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,301 /per night"/>
+			<accomodation name="Fathima Tower" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,248 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Ten" name="Tenkasi">
+		<touristplace name="Arulmigu Tenkasi Sivan Temple">
+			<accomodation name="Alankar Lodge " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,500 /per night"/>
+			<accomodation name="Hotel Sountharya" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,100 /per night"/>
+			<accomodation name="Yuga Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,646 /per night"/>
+		</touristplace>
+		<touristplace name="New Coutralam falls">
+			<accomodation name="Zamin Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,142 /per night"/>
+			<accomodation name="Alankar Lodge " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,500 /per night"/>
+			<accomodation name="he Pothigai Palace" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,799 /per night"/>
+		</touristplace>
+		<touristplace name="Old Coutralam Falls">
+			<accomodation name="Saaral Resorts" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,920 /per night"/>
+			<accomodation name="Kings Palace " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,923 /per night"/>
+			<accomodation name="Yexus Green Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,111 /per night"/>
+		</touristplace>
+		<touristplace name="Five Falls">
+			<accomodation name="Thiru Coutrala Nathar Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.800 /per night"/>
+			<accomodation name="AAR Royel Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,000 /per night"/>
+			<accomodation name="Zamin Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,12 /per night"/>
+		</touristplace>
+		<touristplace name="Thirumali Kumaraswamy Temple">
+			<accomodation name="AAR Royel Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.999 /per night"/>
+			<accomodation name="Zamin Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,142 /per night"/>
+			<accomodation name="Kerala Palace" description="Rooms and Guest 1 Room ,2 Adults = Rs.900 /per night"/>
+		</touristplace>
+    </district>
+	<district id="Than" name="Thanjavur">
+		<touristplace name="Brihadeeswarar Temple">
+			<accomodation name="Vel Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.819 /per night"/>
+			<accomodation name="Ponni Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,680 /per night"/>
+			<accomodation name="Abi's Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,646 /per night"/>
+		</touristplace>
+		<touristplace name="Thanjavur Palace">
+			<accomodation name="Sagar Home Stay" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,133 /per night"/>
+			<accomodation name="Vel Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.819 /per night"/>
+			<accomodation name="Hotel Kasi Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,350 /per night"/>
+		</touristplace>
+		<touristplace name="Swamimalai murugan temple">
+			<accomodation name="Jayam lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.784 /per night"/>
+			<accomodation name="Hotel Eswara Temple Stay" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,029 /per night"/>
+			<accomodation name="Hotel Namaskar" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,273 /per night"/>
+		</touristplace>
+     </district>
+	<district id="The" name="Theni">
+		<touristplace name="Suruli falls">
+			<accomodation name="Veeras Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,025 /per night"/>
+			<accomodation name="Jungle View HomeStay" description="Rooms and Guest 1 Room ,2 Adults = Rs.895 /per night"/>
+			<accomodation name="Dean Dale Cottage" description="Rooms and Guest 1 Room ,2 Adults = Rs.773 /per night"/>
+		</touristplace>
+		<touristplace name="Kumbakkarai falls">
+			<accomodation name="Mist Cottage and HomeStay" description="Rooms and Guest 1 Room ,2 Adults = Rs.897 /per night"/>
+			<accomodation name="The Jacks Hilltop Kodai" description="Rooms and Guest 1 Room ,2 Adults = Rs.705 /per night"/>
+			<accomodation name="Le Grace Kodaikanal" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,097 /per night"/>
+		</touristplace>
+		<touristplace name="Meghamalai">
+			<accomodation name="Jungle View homestay " description="Rooms and Guest 1 Room ,2 Adults = Rs.895 /per night"/>
+			<accomodation name="Wind Valley" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,225 /per night"/>
+			<accomodation name="Greenside Homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,064 /per night"/>
+		</touristplace>
+		<touristplace name="vaigai Dam">
+			<accomodation name="Hotel RR lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,061 /per night"/>
+			<accomodation name="Pandiyar Villa" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,102 /per night"/>
+			<accomodation name="Hotel Sivas Regency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,411 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Thoo" name="Thoothukudi">
+		<touristplace name="Thiruchendur murugan Temple">
+			<accomodation name="FabHotel Gayathri" description="Rooms and Guest 1 Room ,2 Adults = Rs.500 /per night"/>
+			<accomodation name="New City Tower Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.981 /per night"/>
+			<accomodation name="Alagan Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,368 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu kulasai mutharamman temple">
+			<accomodation name="GRT Hotels" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,200 /per night"/>
+			<accomodation name="Hotel Geetha International" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,300 /per night"/>
+			<accomodation name="Sathya park and Resorts" description="Rooms and Guest 1 Room ,2 Adults = Rs.895 /per night"/>
+		</touristplace>
+		<touristplace name="Manapad">
+			<accomodation name="Hotel Dhanam" description="Rooms and Guest 1 Room ,2 Adults = Rs.689 /per night"/>
+			<accomodation name="Maria Tower" description="Rooms and Guest 1 Room ,2 Adults = Rs.935 /per night"/>
+			<accomodation name="Hotel Sivanthi" description="Rooms and Guest 1 Room ,2 Adults = Rs.700 /per night"/>
+		</touristplace>
+		<touristplace name="Our Lady of snows Basilica">
+			<accomodation name="Hotel Nakshatra Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,242 /per night"/>
+			<accomodation name="Mayilveedu Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.3,808 /per night"/>
+			<accomodation name="Lili House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,400 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Tri" name="Trichy">
+		<touristplace name="Sri Rangatha Swamy Temple">
+			<accomodation name="Hotel Temple Stay" description="Rooms and Guest 1 Room ,2 Adults = Rs.967 /per night"/>
+			<accomodation name="Hotel Star Nivas Srirangam" description="Rooms and Guest 1 Room ,2 Adults = Rs.788 /per night"/>
+			<accomodation name="The Kaya Backpacckers Rooms" description="Rooms and Guest 1 Room ,2 Adults = Rs.914 /per night"/>
+		</touristplace>
+		<touristplace name="Sri ayyappan Temple">
+			<accomodation name="Star Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.869 /per night"/>
+			<accomodation name="Star Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.973 /per night"/>
+			<accomodation name="Grand stay" description="Rooms and Guest 1 Room ,2 Adults = Rs.905 /per night"/>
+		</touristplace>
+		<touristplace name="Thirichirapalli Rock Fort">
+			<accomodation name="Hotel Raams park" description="Rooms and Guest 1 Room ,2 Adults = Rs.806 /per night"/>
+			<accomodation name="Hotel Rhythm Grand Suite" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,065 /per night"/>
+			<accomodation name="Grand stay" description="Rooms and Guest 1 Room ,2 Adults = Rs.905 /per night"/>
+		</touristplace>
+		<touristplace name="Srirangam">
+			<accomodation name="Hotel Star Nivas Srirangam" description="Rooms and Guest 1 Room ,2 Adults = Rs.788 /per night"/>
+			<accomodation name="Hotel Temple stay" description="Rooms and Guest 1 Room ,2 Adults = Rs.967 /per night"/>
+			<accomodation name="Grand Stay" description="Rooms and Guest 1 Room ,2 Adults = Rs.905 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Thirun" name="Thirunelveli">
+		<touristplace name="Arulmigu Nellaiyapper Temple">
+			<accomodation name="TVK Regency" description="Rooms and Guest 1 Room ,2 Adults = Rs.858 /per night"/>
+			<accomodation name="Dream Land lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,067 /per night"/>
+			<accomodation name="Hotel Venkaateswara " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,452 /per night"/>
+		</touristplace>
+		<touristplace name="Manimutharu waterfalls">
+			<accomodation name="Hotel Ambai Grand" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,960 /per night"/>
+			<accomodation name="Hotel Gowri Sankar" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,796 /per night"/>
+			<accomodation name="Jai Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,400 /per night"/>
+		</touristplace>
+		<touristplace name="Agasthiyar waterfalls">
+			<accomodation name="Papanasam Thamirabarani Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.650 /per night"/>
+			<accomodation name="Thillai Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.800 /per night"/>
+			<accomodation name="Mango Resorts" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,900 /per night"/>
+		</touristplace>
+		<touristplace name="Papanasam Dam">
+			<accomodation name="Papanasam Thamirabarani Lodge " description="Rooms and Guest 1 Room ,2 Adults = Rs.650 /per night"/>
+			<accomodation name="Papanasam Raja Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.980 /per night"/>
+			<accomodation name="Thillai Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.800 /per night"/>
+		</touristplace>
+		<touristplace name="Distict Science Center">
+			<accomodation name="TVK Regency" description="Rooms and Guest 1 Room ,2 Adults = Rs.858 /per night"/>
+			<accomodation name="Dream land Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,067 /per night"/>
+			<accomodation name="Hotel Aaryas Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,546 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Thirup" name="Thirupattur">
+		<touristplace name="Yelagiri Nature Park">
+			<accomodation name="Hotel Golden Nest" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,120 /per night"/>
+			<accomodation name="Hotel Aruvi" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,118 /per night"/>
+			<accomodation name="JP Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,499 /per night"/>
+		</touristplace>
+		<touristplace name="Punganur Lake">
+			<accomodation name="Giri Nandhana Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,340 /per night"/>
+			<accomodation name="Hotel Landmark" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,230 /per night"/>
+			<accomodation name="Sterling Yelagiri " description="Rooms and Guest 1 Room ,2 Adults = Rs.2,100 /per night"/>
+		</touristplace>
+		<touristplace name="Jalagamparai Falls">
+			<accomodation name="Hotel Golden Nest" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,120 /per night"/>
+			<accomodation name="Hotel Aruvi" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,118 /per night"/>
+			<accomodation name="JP Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,499 /per night"/>
+		</touristplace>
+		<touristplace name="Extreme adventures Yelagiri Hills">
+			<accomodation name="Hotel Golden Nest" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,120 /per night"/>
+			<accomodation name="Hotel Aruvi" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,118 /per night"/>
+			<accomodation name="JP Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,499 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Tripp" name="Trippur">
+		<touristplace name="Thirumoorthy waterfalls">
+			<accomodation name="Nantha Grande" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,300 /per night"/>
+			<accomodation name="Spice Tree Chinnar" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,700 /per night"/>
+			<accomodation name="Marayoor Holidays" description="Rooms and Guest 1 Room ,2 Adults = Rs.672 /per night"/>
+		</touristplace>
+		<touristplace name="Amaravathi dam">
+			<accomodation name="Aathishaya Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.850 /per night"/>
+			<accomodation name="Limra Residency " description="Rooms and Guest 1 Room ,2 Adults = Rs.742 /per night"/>
+			<accomodation name="Marayoor Holidays" description="Rooms and Guest 1 Room ,2 Adults = Rs.672 /per night"/>
+		</touristplace>
+		<touristplace name="Tirupur Tirupathi sri venkatesa perumal temple">
+			<accomodation name="Maanas HomeStay" description="Rooms and Guest 1 Room ,2 Adults = Rs.764 /per night"/>
+			<accomodation name="Swapna Nivas A/C Dormitory" description="Rooms and Guest 1 Room ,2 Adults = Rs.674 /per night"/>
+			<accomodation name="Kvp Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.664 /per night"/>
+		</touristplace>
+		</district>
+	<district id="Thiruv" name="Thiruvallur">
+		<touristplace name="Arulmigu thiruthani murugan temple">
+			<accomodation name="VS Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,020 /per night"/>
+			<accomodation name="Sri Lakshmi Residency " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,769 /per night"/>
+			<accomodation name="Mount View Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.901 /per night"/>
+		</touristplace>
+		<touristplace name="Vaitheeswaran Temple">
+			<accomodation name="Super OYO  Forum Mall" description="Rooms and Guest 1 Room ,2 Adults = Rs.721 /per night"/>
+			<accomodation name="Royal Green Accommodation " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,151 /per night"/>
+			<accomodation name="Hotel Bluesky " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,444 /per night"/>
+		</touristplace>
+		</district>
+	<district id="Thiruvan" name="Thiruvannamalai">
+		<touristplace name="Arunachaleswarar Temple">
+			<accomodation name="Sai Murugan Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.958 /per night"/>
+			<accomodation name="Hotel Aalayam " description="Rooms and Guest 1 Room ,2 Adults = Rs.2,000 /per night"/>
+			<accomodation name="Sharma Residency " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,310 /per night"/>
+		</touristplace>
+		<touristplace name="Sathanur Dam">
+			<accomodation name="Sathya Hotel" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,152 /per night"/>
+			<accomodation name="Sharma Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,310 /per night"/>
+			<accomodation name="Sai Murugan Lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.958 /per night"/>
+		</touristplace>
+		</district>
+	<district id="Thiru" name="Thiruvarur">
+		<touristplace name="Vaduvoor Birds Sanctuary">
+			<accomodation name="Sagar Home Stay" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,133 /per night"/>
+			<accomodation name="Anbu Homestay" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,245 /per night"/>
+			<accomodation name="Hotel Selvies" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,535 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu Thiyaagaraaja Swaamy Temple">
+			<accomodation name="Hotel Coastal Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.895 /per night"/>
+			<accomodation name="Kalai Tower Luxury Rooms" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,400 /per night"/>
+			<accomodation name="Arun Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,699 /per night"/>
+		</touristplace>
+			</district>
+	<district id="Vello" name="Vellore">
+		<touristplace name="Vellore Fort">
+			<accomodation name="Pawan Park " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,107 /per night"/>
+			<accomodation name="BKS Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.817 /per night"/>
+			<accomodation name="Christain Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,172 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu Vallimalai Temple">
+			<accomodation name="GR Manson" description="Rooms and Guest 1 Room ,2 Adults = Rs.595 /per night"/>
+			<accomodation name="Babu Naidu Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.896 /per night"/>
+			<accomodation name="Christain Guest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,172 /per night"/>
+		</touristplace>
+		<touristplace name="Palamathi Hills">
+			<accomodation name="BKS Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.817 /per night"/>
+			<accomodation name="Babu Naidu Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.896 /per night"/>
+			<accomodation name="ChristianGuest House" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,172 /per night"/>
+		</touristplace>
+		</district>
+	<district id="Vilu" name="Vilupuram">
+		<touristplace name="Rajagiri Fort">
+			<accomodation name="Selvi Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,420 /per night"/>
+			<accomodation name="Hotel Shivan" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,340 /per night"/>
+			<accomodation name="Kubera Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.2,500 /per night"/>
+		</touristplace>
+		<touristplace name="Aurovile Matrimandir">
+			<accomodation name="Auro GP Guesthouse" description="Rooms and Guest 1 Room ,2 Adults = Rs.952 /per night"/>
+			<accomodation name="Beyond Community" description="Rooms and Guest 1 Room ,2 Adults = Rs.952 /per night"/>
+			<accomodation name="Time Travallers Hostel" description="Rooms and Guest 1 Room ,2 Adults = Rs.522 /per night"/>
+		</touristplace>
+		<touristplace name="Auro beach">
+			<accomodation name="PV Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.717 /per night"/>
+			<accomodation name="Auro Ba Cottage" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,164 /per night"/>
+			<accomodation name="Soorya Beach Resort" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,210 /per night"/>
+		</touristplace>
+		<touristplace name="Senji Fort">
+			<accomodation name="Hotel Aruna A/C " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,456 /per night"/>
+			<accomodation name="Hotel Balaji Inn" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,047 /per night"/>
+			<accomodation name="GP Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,718 /per night"/>
+		</touristplace>
+	</district>
+	<district id="Viru" name="Viruthunagar">
+		<touristplace name="Irukkangudi Mariamman temple">
+			<accomodation name="RSR Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,162 /per night"/>
+			<accomodation name="Kumaran Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.852 /per night"/>
+			<accomodation name="Nadar lodge" description="Rooms and Guest 1 Room ,2 Adults = Rs.703 /per night"/>
+		</touristplace>
+		<touristplace name="Kamarajar House">
+			<accomodation name="RSR Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,163 /per night"/>
+			<accomodation name="Nandha Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.1,162 /per night"/>
+			<accomodation name="Spot On  Hotel Ajay Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.968 /per night"/>
+		</touristplace>
+		<touristplace name="Arulmigu Chathuragiri Sundara Mahalingam Temple">
+			<accomodation name="Ram Lodge " description="Rooms and Guest 1 Room ,2 Adults = Rs.1,400 /per night"/>
+			<accomodation name="Hotel Sri Andal" description="Rooms and Guest 1 Room ,2 Adults = Rs.876 /per night"/>
+			<accomodation name="Spot on Hotel Ajay Residency" description="Rooms and Guest 1 Room ,2 Adults = Rs.968 /per night"/>
+		</touristplace>
+		</district>
+</districts>					
